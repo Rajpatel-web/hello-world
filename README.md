@@ -1,4 +1,7 @@
 # hello-world
 This is a beautiful place.
-hi humans
-i like working on this app.
+name:rajpatel
+student id:991503789
+login name:Rajpatel-web
+davis campus for SYST24444 Exercise 3
+
